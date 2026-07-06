@@ -31,7 +31,9 @@ The analysis uses four datasets provided by Kimia Farma.
 Hold
 
 ## 📊 Dashboard Preview
-Wait
+<p align="center">
+  <img src="dashboard/dashboard.png" width="1000">
+</p>
 
 ## 💡 Key Insights
 - Business performance remained stable throughout 2020–2023.
