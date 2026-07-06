@@ -27,9 +27,6 @@ The analysis uses four datasets provided by Kimia Farma.
 6. Business Insights
 7. Business Recommendations
 
-## 🗃️ Project Structure
-Hold
-
 ## 📊 Dashboard Preview
 <p align="center">
   <img src="dashboard/dashboard.png" width="1000">
@@ -50,3 +47,15 @@ View Dashboard Interactive : https://datastudio.google.com/reporting/a82a5004-51
 
 ## 👤 Author
 **Berka Ridha Rahmainingtias**, Big Data Analytics Project-Based Internship, Rakamin Academy × Kimia Farma
+
+## ✨ Skills Demonstrated
+
+- SQL Query
+- Data Cleaning & Validation
+- Data Transformation
+- Data Modeling
+- Data Visualization
+- Business Analysis
+- Dashboard Development
+- Insight Generation
+- Business Recommendation
