@@ -34,6 +34,7 @@ Hold
 <p align="center">
   <img src="dashboard/dashboard.png" width="1000">
 </p>
+View Dashboard Interactive : https://datastudio.google.com/reporting/a82a5004-5168-4f15-98d0-2d8c0fee3437/page/p_dln022v94d
 
 ## 💡 Key Insights
 - Business performance remained stable throughout 2020–2023.
