@@ -34,16 +34,14 @@ The analysis uses four datasets provided by Kimia Farma.
 View Dashboard Interactive : https://datastudio.google.com/reporting/a82a5004-5168-4f15-98d0-2d8c0fee3437/page/p_dln022v94d
 
 ## 💡 Key Insights
-- Business performance remained stable throughout 2020–2023.
-- D.I. Yogyakarta recorded the highest Net Sales and total transactions.
-- Branch ratings were consistently high, while transaction ratings indicated opportunities for service improvement.
-- Sales contributions were relatively balanced across branch categories.
+- **Financial Consistency**: A total profit of IDR 91.21B from IDR 321.17B in net sales (2020–2023) was driven by highly stable quarterly performance (IDR 5.6B–5.7B), demonstrating a resilient, predictable, and non-seasonal business model.
+- **Core Growth Driver**: West Java leads revenue generation, with its 3 branches contributing IDR 94.87B in net sales—serving as an operational benchmark for replication in other regions.
+- **Rating Discrepancy**: A performance gap exists across 5 non-West Java branches, where high branch ratings (4.7–4.8) contrast with below-average transaction ratings (3.99–4.02), indicating operational issues during transaction settlement.
 
 ## 🚀 Business Recommendations
-- Maintain the performance of top-performing regions.
-- Improve customer transaction experience.
-- Use high-performing branches as operational benchmarks.
-- Optimize sales strategies in lower-performing regions.
+- **Replicate Operational Benchmark**: Adopt West Java's operational model across mid-performing regions (Central Java, East Java, North Sumatra) to drive sales growth.
+- **Fix Transaction Bottlenecks**: Evaluate the 5 low-rated branches to resolve operational issues and improve the overall transaction experience.
+- **Optimize Cash Flow & Inventory**: Leverage the predictable quarterly profit trends to refine procurement planning and maximize cash flow efficiency.
 
 ## 👤 Author
 **Berka Ridha Rahmainingtias**, Big Data Analytics Project-Based Internship, Rakamin Academy × Kimia Farma
